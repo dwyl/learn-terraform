@@ -33,3 +33,13 @@ https://www.terraform.io/intro/index.html
 
 In this guide we are going to setup a 
 Phoenix Web Application running on AWS.
+
+
+...  taking a minor detour to see if I can do this with OpenBSD: 
+https://github.com/dwyl/learn-security/issues/73
+
+
+## Useful Links
+
++ Using Terraform for Cloud Deployments (LAMP on AWS, 2017):
+https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1
